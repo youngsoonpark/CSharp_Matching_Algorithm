@@ -1,0 +1,37 @@
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+E:\컴공\비트\비트고급\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
