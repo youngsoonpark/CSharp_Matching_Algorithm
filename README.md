@@ -1,4 +1,4 @@
-# C# - Matching_Algorithm
+# Matching_Algorithm
 
 * Use Kiwoom API 
 * Use WinForm
